@@ -1,0 +1,15 @@
+/* SCSS HEX */
+/* SCSS Gradient */
+body {
+  background-color: #fe5f55;
+}
+
+#window {
+  min-width: 400px;
+  max-width: 50vw;
+  min-height: 200px;
+  background-color: #577399;
+  color: #577399;
+}
+
+/*# sourceMappingURL=style.css.map */
