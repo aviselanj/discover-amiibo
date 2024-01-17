@@ -19,13 +19,30 @@ $gradient-bottom-left: linear-gradient(315deg, #495867ff, #577399ff, #bdd5eaff, 
 $gradient-radial: radial-gradient(#495867ff, #577399ff, #bdd5eaff, #f7f7ffff, #fe5f55ff);
 
 body{
-    background-color: $bittersweet;
+    background-color: navy;
 }
-
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+button{
+    justify-content: center;
+    margin: auto;
+}
 #window{
-            min-width: 400px;
-            max-width: 50vw;
+            min-width: 300px;
+            max-width: 30vw;
             min-height: 200px;
-            background-color: $glaucous;
+            background-color: black;
             color: $ghost-white;
+            margin: auto;
+            justify-content: center;
+            padding: 75px;
+           
+}
+img{
+        min-width: 200px;
+        max-width: 20vw;
+        min-height: 100px;
 }
